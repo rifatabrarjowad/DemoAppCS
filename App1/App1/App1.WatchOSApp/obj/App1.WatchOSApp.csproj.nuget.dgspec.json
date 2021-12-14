@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSApp\\App1.WatchOSApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSApp\\App1.WatchOSApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSApp\\App1.WatchOSApp.csproj",
+        "projectName": "App1.WatchOSApp",
+        "projectPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSApp\\App1.WatchOSApp.csproj",
+        "packagesPath": "C:\\Users\\RIFATH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RIFATH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinwatchos10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinwatchos10": {
+            "projectReferences": {
+              "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSExtension\\App1.WatchOSExtension.csproj": {
+                "projectPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSExtension\\App1.WatchOSExtension.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinwatchos10": {}
+      }
+    },
+    "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSExtension\\App1.WatchOSExtension.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSExtension\\App1.WatchOSExtension.csproj",
+        "projectName": "App1.WatchOSExtension",
+        "projectPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSExtension\\App1.WatchOSExtension.csproj",
+        "packagesPath": "C:\\Users\\RIFATH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App1\\App1\\App1.WatchOSExtension\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RIFATH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinwatchos10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinwatchos10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinwatchos10": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

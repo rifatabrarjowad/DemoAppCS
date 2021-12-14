@@ -1,0 +1,17 @@
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\bin\iPhone\Debug\App1.WatchOSApp.dll
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\bin\iPhone\Debug\App1.WatchOSApp.pdb
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\optimized\
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\App1.WatchOSApp.csproj.AssemblyReference.cache
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\App1.WatchOSApp.csproj.CoreCompileInputs.cache
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\App1.WatchOSApp.dll
+C:\Users\RIFATH\Desktop\DemoAppCS\App1\App1\App1.WatchOSApp\obj\iPhone\Debug\App1.WatchOSApp.pdb
