@@ -1,0 +1,15 @@
+E:\DemoAppCS\CSharpSection\CSharpSection\bin\Debug\net6.0\CSharpSection.exe
+E:\DemoAppCS\CSharpSection\CSharpSection\bin\Debug\net6.0\CSharpSection.deps.json
+E:\DemoAppCS\CSharpSection\CSharpSection\bin\Debug\net6.0\CSharpSection.runtimeconfig.json
+E:\DemoAppCS\CSharpSection\CSharpSection\bin\Debug\net6.0\CSharpSection.dll
+E:\DemoAppCS\CSharpSection\CSharpSection\bin\Debug\net6.0\ref\CSharpSection.dll
+E:\DemoAppCS\CSharpSection\CSharpSection\bin\Debug\net6.0\CSharpSection.pdb
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.csproj.AssemblyReference.cache
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.AssemblyInfoInputs.cache
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.AssemblyInfo.cs
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.csproj.CoreCompileInputs.cache
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.dll
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\ref\CSharpSection.dll
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.pdb
+E:\DemoAppCS\CSharpSection\CSharpSection\obj\Debug\net6.0\CSharpSection.genruntimeconfig.cache

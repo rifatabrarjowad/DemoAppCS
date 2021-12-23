@@ -1,0 +1,14 @@
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\bin\Debug\netstandard2.0\SqlLite.deps.json
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\bin\Debug\netstandard2.0\SqlLite.dll
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\bin\Debug\netstandard2.0\ref\SqlLite.dll
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\bin\Debug\netstandard2.0\SqlLite.pdb
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.AssemblyInfoInputs.cache
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.AssemblyInfo.cs
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.csproj.CoreCompileInputs.cache
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\XamlC.stamp
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.dll
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\ref\SqlLite.dll
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.pdb
