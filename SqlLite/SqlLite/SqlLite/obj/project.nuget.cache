@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9XHRI3l61RUMuf/WCriJkz2BoKEauPLmk0ETM3YhV9i/MuIhHZ/1CnGs1w9gx5ALjHxNq3YBCjqtk6amFtoZRw==",
+  "dgSpecHash": "8SZnGcqUJoYMX8xoIHRLO3LM/Gl1fVj/eTF/XyYnmpzYzSp7R5aDpAzD2kx+DZdW2FWU44IIU2J2j4e6+hi8GA==",
   "success": true,
   "projectFilePath": "E:\\DemoAppCS\\SqlLite\\SqlLite\\SqlLite\\SqlLite.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2291\\xamarin.forms.5.0.0.2291.nupkg.sha512"
   ],
   "logs": []
 }

@@ -982,24 +982,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RIFATH\\.nuget\\packages\\": {},
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App2\\App2\\App2.iOS\\App2.iOS.csproj",
+      "projectUniqueName": "E:\\DemoAppCS\\App2\\App2\\App2.iOS\\App2.iOS.csproj",
       "projectName": "App2.iOS",
-      "projectPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App2\\App2\\App2.iOS\\App2.iOS.csproj",
-      "packagesPath": "C:\\Users\\RIFATH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App2\\App2\\App2.iOS\\obj\\",
+      "projectPath": "E:\\DemoAppCS\\App2\\App2\\App2.iOS\\App2.iOS.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\DemoAppCS\\App2\\App2\\App2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\RIFATH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1013,8 +1013,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App2\\App2\\App2\\App2.csproj": {
-              "projectPath": "C:\\Users\\RIFATH\\Desktop\\DemoAppCS\\App2\\App2\\App2\\App2.csproj"
+            "E:\\DemoAppCS\\App2\\App2\\App2\\App2.csproj": {
+              "projectPath": "E:\\DemoAppCS\\App2\\App2\\App2\\App2.csproj"
             }
           }
         }

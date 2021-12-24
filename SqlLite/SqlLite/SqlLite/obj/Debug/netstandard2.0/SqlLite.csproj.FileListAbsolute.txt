@@ -12,3 +12,4 @@ E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\XamlC.stamp
 E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.dll
 E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\ref\SqlLite.dll
 E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.pdb
+E:\DemoAppCS\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.csproj.AssemblyReference.cache
