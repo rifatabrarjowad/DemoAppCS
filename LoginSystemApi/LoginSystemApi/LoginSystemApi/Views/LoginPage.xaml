@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LoginSystemApi.Views.LoginPage"
+             BackgroundColor="black"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Content >
+        <StackLayout Padding="10,0,10,0" BackgroundColor="Black" VerticalOptions="Center">
+            
+            <Label x:Name="label" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,0,0,100" FontSize="40" TextColor="White" Text="Login "></Label>
+            <Entry x:Name="usr" Placeholder="usrname" BackgroundColor="White" TextColor="Black" />
+            <Entry x:Name="passs" Placeholder="Password" BackgroundColor="White" TextColor="Black" />
+            <Label  IsVisible="false" TextColor="White" x:Name="alt" />
+            
+            <Button Clicked="OnButtonClicked" x:Name="logbtn" Text="LOGIN" />
+            <Button  x:Name="singbtn" IsVisible="false" Text="SINGIN" />
+            <Button Clicked="OnButtonSingUp" VerticalOptions="Center" Text="SingIn" x:Name="sing" />
+            <Button VerticalOptions="Center" Text="LogIn" x:Name="log" Clicked="OnButtonLogin" IsVisible="false"   />
+        </StackLayout>
+        
+    </ContentPage.Content>
+    
+</ContentPage>

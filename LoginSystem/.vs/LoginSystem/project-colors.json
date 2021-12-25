@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c71244ed-a045-451e-832a-4355051363c6": {
+      "ProjectGuid": "c71244ed-a045-451e-832a-4355051363c6",
+      "DisplayName": "LoginSystem",
+      "ColorIndex": 0
+    },
+    "382481c7-a8d3-478c-b253-9a52aa4a8c7f": {
+      "ProjectGuid": "382481c7-a8d3-478c-b253-9a52aa4a8c7f",
+      "DisplayName": "LoginSystem.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
